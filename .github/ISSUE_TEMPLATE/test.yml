@@ -5,7 +5,7 @@ body:
     attributes:
       value: Found a mistake? Where is it?
 
-  - type: input
+  - type: textarea
     id: one
     attributes:
       label: A form
@@ -13,7 +13,7 @@ body:
       placeholder: "I hope the "quotation marks" don't do anything bad"
     validations:
       
-    - type: input
+  - type: textarea
     id: two
     attributes:
       label: Another form
