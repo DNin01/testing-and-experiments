@@ -10,13 +10,14 @@ body:
     id: one
     attributes:
       label: A form
-      description: The form's description
-      placeholder: "I hope the "quotation marks" don't do anything bad"
+      description: The form description
+      placeholder: |
+        Testing "quotation marks"
       
   - type: textarea
     id: two
     attributes:
       label: Another form
-      description: "Second description"
-      placeholder: |
-        More text with "quotation marks"
+      description: Second description
+      placeholder: More text
+      
