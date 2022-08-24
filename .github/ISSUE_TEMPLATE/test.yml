@@ -12,8 +12,11 @@ body:
       label: A form
       description: The form's description
       placeholder: |
+        1.
+        2.
+      value: |
         Testing "quotation marks"
-      
+
   - type: textarea
     id: two
     attributes:
