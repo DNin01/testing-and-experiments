@@ -10,7 +10,7 @@ body:
     id: one
     attributes:
       label: A form
-      description: The form description
+      description: The form's description
       placeholder: |
         Testing "quotation marks"
       
@@ -18,6 +18,6 @@ body:
     id: two
     attributes:
       label: Another form
-      description: Second description
+      description: Second description/field
       placeholder: More text
       
