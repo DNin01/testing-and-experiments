@@ -24,7 +24,7 @@ body:
       description: Second description/field
       placeholder: More text
 
-    - type: checkboxes
+  - type: checkboxes
     id: readfirst
     attributes:
       label: READ BEFORE CREATING!
