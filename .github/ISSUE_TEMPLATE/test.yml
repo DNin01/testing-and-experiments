@@ -23,4 +23,14 @@ body:
       label: Another form
       description: Second description/field
       placeholder: More text
-      
+
+    - type: checkboxes
+    id: readfirst
+    attributes:
+      label: READ BEFORE CREATING!
+      description: |
+        - Reminder 1
+        - Reminder 2
+      options:
+        - label: OK
+          required: true
