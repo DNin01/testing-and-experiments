@@ -15,7 +15,7 @@ body:
         1.
         2.
       value: |
-        Testing "quotation marks"
+        Some "quotation marks"
 
   - type: textarea
     id: two
