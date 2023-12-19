@@ -4,6 +4,9 @@ body:
   - type: markdown
     attributes:
       value: |
+        > [!IMPORTANT]
+        > Hi
+      
         Found a mistake? Where is it?
 
   - type: textarea
@@ -14,6 +17,7 @@ body:
       placeholder: |
         1.
         2.
+        ...
       value: |
         Some "quotation marks"
 
