@@ -1,3 +1,5 @@
+## Hi hi hi!
+
 Did you know you can do this?
 
 > [!NOTE]
